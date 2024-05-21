@@ -1,0 +1,36 @@
+ .a{
+    background: violet;
+    width: 150px ;
+    height: 100px;
+    border : 6px solid;
+    border-color: black;
+
+    
+}
+
+.b{
+    background: violet;
+    width: 150px ;
+    height: 100px;
+    border : 6px solid;
+    border-color: black;
+
+}
+.c{
+    background: violet;
+    width: 150px ;
+    height: 100px;
+    border : 6px solid;
+    border-color: black;
+
+}
+
+.cont1{
+         display:flex;
+        justify-content:space-evenly;
+        align-items: center;
+
+        
+
+}
+
